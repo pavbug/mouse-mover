@@ -1,0 +1,496 @@
+  File: .
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17323317    Links: 5
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:57:51.499542399 +0100
+Modify: 2025-02-05 18:57:50.452554621 +0100
+Change: 2025-02-05 18:57:50.452554621 +0100
+ Birth: 2025-02-05 18:49:14.055904286 +0100
+  File: ./.idea
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17323321    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:57:01.894430336 +0100
+Modify: 2025-02-05 19:56:47.218501552 +0100
+Change: 2025-02-05 19:56:47.218501552 +0100
+ Birth: 2025-02-05 18:49:14.408899639 +0100
+  File: ./.idea/encodings.xml
+  Size: 261       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17322570    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:41.477794615 +0100
+Modify: 2025-02-05 18:54:41.477794615 +0100
+Change: 2025-02-05 18:54:41.477794615 +0100
+ Birth: 2025-02-05 18:54:41.477794615 +0100
+  File: ./.idea/misc.xml
+  Size: 467       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17322567    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:41.475794639 +0100
+Modify: 2025-02-05 18:54:41.475794639 +0100
+Change: 2025-02-05 18:54:41.475794639 +0100
+ Birth: 2025-02-05 18:54:41.475794639 +0100
+  File: ./.idea/workspace.xml
+  Size: 2364      	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17323322    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:56:48.227635754 +0100
+Modify: 2025-02-05 19:56:47.210500487 +0100
+Change: 2025-02-05 19:56:47.210500487 +0100
+ Birth: 2025-02-05 18:49:14.409899626 +0100
+  File: ./.idea/compiler.xml
+  Size: 532       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17322563    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:41.472794675 +0100
+Modify: 2025-02-05 18:54:41.472794675 +0100
+Change: 2025-02-05 18:54:41.472794675 +0100
+ Birth: 2025-02-05 18:54:41.472794675 +0100
+  File: ./.idea/.gitignore
+  Size: 47        	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17322557    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:15.622107145 +0100
+Modify: 2025-02-05 18:54:15.169112636 +0100
+Change: 2025-02-05 18:54:15.169112636 +0100
+ Birth: 2025-02-05 18:54:15.110113351 +0100
+  File: ./.idea/vcs.xml
+  Size: 167       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17322572    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:41.481794567 +0100
+Modify: 2025-02-05 18:54:41.481794567 +0100
+Change: 2025-02-05 18:54:41.481794567 +0100
+ Birth: 2025-02-05 18:54:41.481794567 +0100
+  File: ./.idea/jarRepositories.xml
+  Size: 845       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17322571    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:41.479794591 +0100
+Modify: 2025-02-05 18:54:41.479794591 +0100
+Change: 2025-02-05 18:54:41.479794591 +0100
+ Birth: 2025-02-05 18:54:41.479794591 +0100
+  File: ./.gitignore
+  Size: 490       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17323324    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:10.205172838 +0100
+Modify: 2025-02-05 18:49:14.539897915 +0100
+Change: 2025-02-05 18:49:14.539897915 +0100
+ Birth: 2025-02-05 18:49:14.538897928 +0100
+  File: ./src
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17322550    Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:08.535193105 +0100
+Modify: 2025-02-05 18:53:39.107551449 +0100
+Change: 2025-02-05 18:53:39.107551449 +0100
+ Birth: 2025-02-05 18:52:51.330138348 +0100
+  File: ./src/test
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452382    Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:10.096174160 +0100
+Modify: 2025-02-05 18:53:41.416523248 +0100
+Change: 2025-02-05 18:53:41.416523248 +0100
+ Birth: 2025-02-05 18:53:39.107551449 +0100
+  File: ./src/test/resources
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452553    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:10.096174160 +0100
+Modify: 2025-02-05 18:53:41.416523248 +0100
+Change: 2025-02-05 18:53:41.416523248 +0100
+ Birth: 2025-02-05 18:53:41.416523248 +0100
+  File: ./src/test/java
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452397    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:10.096174160 +0100
+Modify: 2025-02-05 18:53:41.416523248 +0100
+Change: 2025-02-05 18:53:41.416523248 +0100
+ Birth: 2025-02-05 18:53:41.416523248 +0100
+  File: ./src/main
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452378    Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:53:11.449890391 +0100
+Modify: 2025-02-05 18:53:09.209917937 +0100
+Change: 2025-02-05 18:53:09.209917937 +0100
+ Birth: 2025-02-05 18:52:59.769034205 +0100
+  File: ./src/main/resources
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452381    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:10.096174160 +0100
+Modify: 2025-02-05 18:53:09.209917937 +0100
+Change: 2025-02-05 18:53:09.209917937 +0100
+ Birth: 2025-02-05 18:53:09.209917937 +0100
+  File: ./src/main/java
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452380    Links: 3
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:49.586696932 +0100
+Modify: 2025-02-05 18:54:49.075703082 +0100
+Change: 2025-02-05 18:54:49.075703082 +0100
+ Birth: 2025-02-05 18:53:09.209917937 +0100
+  File: ./src/main/java/com
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17585905    Links: 3
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:49.586696932 +0100
+Modify: 2025-02-05 18:54:49.079703034 +0100
+Change: 2025-02-05 18:54:49.079703034 +0100
+ Birth: 2025-02-05 18:54:49.075703082 +0100
+  File: ./src/main/java/com/pav
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17585907    Links: 3
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:48:58.654780664 +0100
+Modify: 2025-02-05 19:48:58.485782172 +0100
+Change: 2025-02-05 19:48:58.485782172 +0100
+ Birth: 2025-02-05 18:54:49.079703034 +0100
+  File: ./src/main/java/com/pav/event
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17586251    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 20:35:14.923228466 +0100
+Modify: 2025-02-05 20:35:14.618240453 +0100
+Change: 2025-02-05 20:35:14.618240453 +0100
+ Birth: 2025-02-05 19:48:58.361783279 +0100
+  File: ./src/main/java/com/pav/event/Observer.java
+  Size: 134       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586153    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:49:10.824672040 +0100
+Modify: 2025-02-05 19:49:10.824672040 +0100
+Change: 2025-02-05 19:49:10.824672040 +0100
+ Birth: 2025-02-05 19:07:12.182185449 +0100
+  File: ./src/main/java/com/pav/event/KeyboardHandler.java
+  Size: 517       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586170    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:49:10.842671879 +0100
+Modify: 2025-02-05 19:49:10.843671871 +0100
+Change: 2025-02-05 19:49:10.843671871 +0100
+ Birth: 2025-02-05 19:36:24.389245613 +0100
+  File: ./src/main/java/com/pav/event/KeyboardObserver.java
+  Size: 148       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586171    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 20:35:04.445644292 +0100
+Modify: 2025-02-05 20:35:04.445644292 +0100
+Change: 2025-02-05 20:35:04.445644292 +0100
+ Birth: 2025-02-05 20:34:30.033073346 +0100
+  File: ./src/main/java/com/pav/event/MyObserver.java
+  Size: 216       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586256    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 20:35:14.613240650 +0100
+Modify: 2025-02-05 20:35:14.613240650 +0100
+Change: 2025-02-05 20:35:14.613240650 +0100
+ Birth: 2025-02-05 20:35:03.658675879 +0100
+  File: ./src/main/java/com/pav/event/MouseHandler.java
+  Size: 720       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586150    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:49:10.829671996 +0100
+Modify: 2025-02-05 19:49:10.829671996 +0100
+Change: 2025-02-05 19:49:10.829671996 +0100
+ Birth: 2025-02-05 18:59:04.227697702 +0100
+  File: ./src/main/java/com/pav/event/MouseObserver.java
+  Size: 146       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586154    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:49:10.847671835 +0100
+Modify: 2025-02-05 19:49:10.847671835 +0100
+Change: 2025-02-05 19:49:10.847671835 +0100
+ Birth: 2025-02-05 19:16:00.144379041 +0100
+  File: ./src/main/java/com/pav/event/EventHandler.java
+  Size: 467       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586118    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:51:25.453465668 +0100
+Modify: 2025-02-05 19:51:25.453465668 +0100
+Change: 2025-02-05 19:51:25.453465668 +0100
+ Birth: 2025-02-05 18:58:21.125197308 +0100
+  File: ./src/main/java/com/pav/event/Observable.java
+  Size: 181       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586160    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:48:58.565781459 +0100
+Modify: 2025-02-05 19:49:10.813672138 +0100
+Change: 2025-02-05 19:49:10.813672138 +0100
+ Birth: 2025-02-05 19:18:49.775752979 +0100
+  File: ./.git
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17323340    Links: 7
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 23:08:24.185573647 +0100
+Modify: 2025-02-05 23:08:23.372571474 +0100
+Change: 2025-02-05 23:08:23.372571474 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/description
+  Size: 73        	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17323341    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452302    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/pre-applypatch.sample
+  Size: 424       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452326    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/push-to-checkout.sample
+  Size: 2783      	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452343    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/commit-msg.sample
+  Size: 896       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452344    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/pre-commit.sample
+  Size: 1643      	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452345    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/update.sample
+  Size: 3650      	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452346    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/fsmonitor-watchman.sample
+  Size: 4726      	Blocks: 16         IO Block: 4096   regular file
+Device: 252,1	Inode: 17452347    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/pre-rebase.sample
+  Size: 4898      	Blocks: 16         IO Block: 4096   regular file
+Device: 252,1	Inode: 17452348    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/pre-push.sample
+  Size: 1374      	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452349    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/prepare-commit-msg.sample
+  Size: 1492      	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452350    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/pre-merge-commit.sample
+  Size: 416       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452351    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/pre-receive.sample
+  Size: 544       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452352    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/applypatch-msg.sample
+  Size: 478       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452353    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/sendemail-validate.sample
+  Size: 2308      	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452354    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/hooks/post-update.sample
+  Size: 189       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452355    Links: 1
+Access: (0775/-rwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.159797754 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/HEAD
+  Size: 23        	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17323342    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.240796691 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.160797741 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/refs
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452359    Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/refs/tags
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452361    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/refs/heads
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452360    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/info
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452356    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/info/exclude
+  Size: 240       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17452357    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:54:11.604155865 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/branches
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452358    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.159797754 +0100
+Change: 2025-02-05 18:49:22.159797754 +0100
+ Birth: 2025-02-05 18:49:22.159797754 +0100
+  File: ./.git/objects
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452362    Links: 6
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 23:09:12.302703191 +0100
+Modify: 2025-02-05 19:48:58.565781459 +0100
+Change: 2025-02-05 19:48:58.565781459 +0100
+ Birth: 2025-02-05 18:49:22.160797741 +0100
+  File: ./.git/objects/info
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452364    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.160797741 +0100
+Change: 2025-02-05 18:49:22.160797741 +0100
+ Birth: 2025-02-05 18:49:22.160797741 +0100
+  File: ./.git/objects/pack
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17452363    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.176797531 +0100
+Modify: 2025-02-05 18:49:22.160797741 +0100
+Change: 2025-02-05 18:49:22.160797741 +0100
+ Birth: 2025-02-05 18:49:22.160797741 +0100
+  File: ./.git/objects/03
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17586161    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:18:50.751753157 +0100
+Modify: 2025-02-05 19:18:50.733753154 +0100
+Change: 2025-02-05 19:18:50.733753154 +0100
+ Birth: 2025-02-05 19:18:50.733753154 +0100
+  File: ./.git/objects/03/b905eda21e35440aa721e152c40eca776845e6
+  Size: 66        	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586162    Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:18:50.733753154 +0100
+Modify: 2025-02-05 19:18:50.733753154 +0100
+Change: 2025-02-05 19:18:50.733753154 +0100
+ Birth: 2025-02-05 19:18:50.733753154 +0100
+  File: ./.git/objects/93
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 252,1	Inode: 17586253    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:48:58.615781012 +0100
+Modify: 2025-02-05 19:48:58.565781459 +0100
+Change: 2025-02-05 19:48:58.565781459 +0100
+ Birth: 2025-02-05 19:48:58.565781459 +0100
+  File: ./.git/objects/93/e5a6fbe7c518eaa3c185437cc91a0626985581
+  Size: 145       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17586254    Links: 1
+Access: (0444/-r--r--r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:48:58.565781459 +0100
+Modify: 2025-02-05 19:48:58.565781459 +0100
+Change: 2025-02-05 19:48:58.565781459 +0100
+ Birth: 2025-02-05 19:48:58.565781459 +0100
+  File: ./.git/config
+  Size: 92        	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17323344    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:49:22.240796691 +0100
+Modify: 2025-02-05 18:49:22.160797741 +0100
+Change: 2025-02-05 18:49:22.160797741 +0100
+ Birth: 2025-02-05 18:49:22.160797741 +0100
+  File: ./.git/index
+  Size: 144       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17323325    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 19:48:58.656780647 +0100
+Modify: 2025-02-05 19:48:58.577781351 +0100
+Change: 2025-02-05 19:48:58.577781351 +0100
+ Birth: 2025-02-05 19:48:58.577781351 +0100
+  File: ./pom.xml
+  Size: 863       	Blocks: 8          IO Block: 4096   regular file
+Device: 252,1	Inode: 17323339    Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/     pav)   Gid: ( 1000/     pav)
+Access: 2025-02-05 18:57:50.456554575 +0100
+Modify: 2025-02-05 18:57:50.438554785 +0100
+Change: 2025-02-05 18:57:50.438554785 +0100
+ Birth: 2025-02-05 18:49:22.157797781 +0100

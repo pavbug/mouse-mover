@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pav</groupId>
@@ -13,12 +13,14 @@
         <maven.compiler.target>11</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <repositories>
         <repository>
             <id>awt-robot-repo</id>
-            <url>https://repo.clojars.org/</url>  <!-- Replace with actual repository URL -->
+            <url>https://repo.clojars.org/</url>
         </repository>
     </repositories>
+
     <dependencies>
         <dependency>
             <groupId>com.github.kwhat</groupId>
@@ -31,5 +33,41 @@
             <version>1.0.0</version>
         </dependency>
     </dependencies>
-    
+
+    <!-- https://stackoverflow.com/a/27662742 -->
+    <build>
+        <!-- Optionally, you can set the overall finalName explicitly,
+             but if omitted, Maven defaults to ${project.artifactId}-${project.version} -->
+        <finalName>${project.artifactId}-${project.version}</finalName>
+
+        <plugins>
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>create-runnable-jar</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                        <configuration>
+                            <!-- Override finalName for the assembly output -->
+                            <finalName>${project.artifactId}-runnable</finalName>
+                            <!-- Prevent appending the default classifier -->
+                            <appendAssemblyId>false</appendAssemblyId>
+                            <descriptorRefs>
+                                <descriptorRef>jar-with-dependencies</descriptorRef>
+                            </descriptorRefs>
+                            <archive>
+                                <manifest>
+                                    <addClasspath>true</addClasspath>
+                                    <mainClass>com.pav.Engine</mainClass>
+                                </manifest>
+                            </archive>
+                        </configuration>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 </project>

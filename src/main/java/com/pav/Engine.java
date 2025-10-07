@@ -33,7 +33,7 @@ public class Engine {
         scheduler.scheduleAtFixedRate(() -> {
             System.out.println("Last Event: " + eventInformation.getLastEventDateTime());
             if (eventInformation.isIdleLongerThan(CHECKING_PERIOD)) {
-                cursorMover.moveFluentlyToDestinationAndBack(10, 10, 10);
+                cursorMover.moveFluentlyToDestinationAndBack(1, 1, 10);
             }
         }, 0, 5, TimeUnit.SECONDS);
     }

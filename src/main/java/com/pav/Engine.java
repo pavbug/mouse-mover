@@ -21,7 +21,7 @@ public class Engine {
 
     public static void main(String[] args) {
         Engine engine = new Engine();
-        engine.registerListeners();
+//        engine.registerListeners();
         engine.runEventChecker(NumberUtils.parseIntOrDefault(args[0], 60));
         Runtime.getRuntime().addShutdownHook(new Thread(engine::shutdown));
     }
@@ -39,7 +39,7 @@ public class Engine {
 
     public void runEventChecker(int periodInSeconds) {
         scheduler.scheduleAtFixedRate(() -> {
-            System.out.println("Last Event: " + eventInformation.getLastEventDateTime());
+//            System.out.println("Last Event: " + eventInformation.getLastEventDateTime());
             if (eventInformation.isIdleLongerThan(CHECKING_PERIOD)) {
                 cursorMover.moveFluentlyToDestinationAndBack(1, 1, 10);
             }

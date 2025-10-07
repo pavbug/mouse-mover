@@ -14,6 +14,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Engine {
     private static final Duration CHECKING_PERIOD = Duration.of(1, ChronoUnit.SECONDS);
+    private static final int DEFAULT_PERIOD_IN_SECONDS = 60;
 
     private final EventInformation eventInformation = new EventInformation();
     private final CursorMover cursorMover = new CursorMover();
@@ -22,8 +23,15 @@ public class Engine {
     public static void main(String[] args) {
         Engine engine = new Engine();
         engine.registerListeners();
-        engine.runEventChecker(NumberUtils.parseIntOrDefault(args[0], 60));
+        engine.runEventChecker(getDefaultPeriodInSeconds(args));
         Runtime.getRuntime().addShutdownHook(new Thread(engine::shutdown));
+    }
+
+    private static int getDefaultPeriodInSeconds(String[] args) {
+        if (args == null || args.length == 0) {
+            return DEFAULT_PERIOD_IN_SECONDS;
+        }
+        return NumberUtils.parseIntOrDefault(args[0], DEFAULT_PERIOD_IN_SECONDS);
     }
 
     public void registerListeners() {
